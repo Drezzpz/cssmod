@@ -1,0 +1,37 @@
+body {
+    background-color: #CFC;
+}
+
+p, li, ul {
+    color: #00F;
+    font-size: 16px;
+    font-family: Georgia, 'Cambria', serif;
+}
+
+h1 {
+    color: #F00;
+    font-size: 32px;
+    font-family: Verdana, 'Calibri', sans-serif;
+}
+
+h2 {
+    color: #A00;
+    font-size: 24px;
+    font-family: Verdana, 'Calibri', sans-serif;
+}
+
+.datoslibro {
+    color: #060;
+}
+
+.textintyweb {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.hmlcsshtml {
+    color: #fff;
+    background-color: #000;
+    font-style: oblique;
+    font-weight: bolder;
+}
